@@ -1,5 +1,5 @@
 # VeDA Verifiable Digital Assets Platform
-   <img src="https://imgur.com/n6OHZjq.png" alt="site"/>
+   <img src="https://imgur.com/C0ZxuSg.png" alt="site"/>
 ## Inspiration
 
 The traditional and existing digital marketplaces often fall short in establishing the verifiability and copyright of digital assets being sold. This gap inspired us to create the VeDA (Verifiable Digital Assets) Platform. Our goal is to provide creators and buyers with a marketplace that ensures peace of mind by facilitating the creation, minting, and trading of digital assets in a secure and trustworthy environment.
